@@ -3,14 +3,18 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/aishop.iml" filepath="$PROJECT_DIR$/aishop.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aishop_basic_parent/aishop_basic_parent.iml" filepath="$PROJECT_DIR$/aishop_basic_parent/aishop_basic_parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/aishop_basic_util.iml" filepath="$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/aishop_basic_util.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aishop_config_server/aishop_config_server.iml" filepath="$PROJECT_DIR$/aishop_config_server/aishop_config_server.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aishop_eureka/aishop_eureka.iml" filepath="$PROJECT_DIR$/aishop_eureka/aishop_eureka.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/aishop_plat_interface.iml" filepath="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/aishop_plat_interface.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_parent.iml" filepath="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_parent.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/aishop_plat_service.iml" filepath="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/aishop_plat_service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/aishop_zuul/aishop_zuul.iml" filepath="$PROJECT_DIR$/aishop_zuul/aishop_zuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/aishop-basic-generator.iml" filepath="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/aishop-basic-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-parent.iml" filepath="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-util/aishop-basic-util.iml" filepath="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-util/aishop-basic-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-config-server/aishop-config-server.iml" filepath="$PROJECT_DIR$/aishop-config-server/aishop-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-eureka/aishop-eureka.iml" filepath="$PROJECT_DIR$/aishop-eureka/aishop-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-interface/aishop-plat-interface.iml" filepath="$PROJECT_DIR$/aishop-plat-parent/aishop-plat-interface/aishop-plat-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-parent.iml" filepath="$PROJECT_DIR$/aishop-plat-parent/aishop-plat-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-service/aishop-plat-service.iml" filepath="$PROJECT_DIR$/aishop-plat-parent/aishop-plat-service/aishop-plat-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/aishop-product-interface.iml" filepath="$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/aishop-product-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-parent.iml" filepath="$PROJECT_DIR$/aishop-product-parent/aishop-product-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/aishop-product-service.iml" filepath="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/aishop-product-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aishop-zuul/aishop-zuul.iml" filepath="$PROJECT_DIR$/aishop-zuul/aishop-zuul.iml" />
     </modules>
   </component>
 </project>

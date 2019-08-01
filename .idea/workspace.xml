@@ -13,6 +13,23 @@
     <ignored path="$PROJECT_DIR$/aishop_plat_parent/target/" />
     <ignored path="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/target/" />
     <ignored path="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/target/" />
+    <ignored path="$PROJECT_DIR$/aishop_product_parent/target/" />
+    <ignored path="$PROJECT_DIR$/aishop_basic_parent/aishop-basic-generator/target/" />
+    <ignored path="$PROJECT_DIR$/aishop_product_parent/aishop-product-interface/target/" />
+    <ignored path="$PROJECT_DIR$/aishop_product_parent/aigou-product-service/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-config-server/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-basic-parent/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-product-parent/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-product-parent/aigou-product-service/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-plat-parent/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-util/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-plat-parent/aishop-plat-service/target/" />
+    <ignored path="$PROJECT_DIR$/aishop-plat-parent/aishop-plat-interface/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,108 +39,146 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/pom.xml">
+      <file leaf-file-name="BrandController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/controller/BrandController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1846">
+              <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+              <folding>
+                <element signature="e#2283#2284#0" expanded="true" />
+                <element signature="e#2335#2336#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductTypeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/controller/ProductTypeController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1508">
-              <caret line="58" column="8" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="62" selection-end-column="21" />
+              <caret line="71" column="36" lean-forward="false" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/resources/bootstrap.yml">
+      <file leaf-file-name="IProductTypeService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/IProductTypeService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+            <state relative-caret-position="0">
+              <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ApplicationService3000.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/ApplicationService3000.java">
+      <file leaf-file-name="ProductTypeServiceImpl.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/impl/ProductTypeServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="182">
-              <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceConfigApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aishop-config-server/src/main/java/cn/itsource/config/ServiceConfigApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandMapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/mapper/BrandMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <element signature="e#341#342#0" expanded="true" />
-                <element signature="e#413#414#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application-copy.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/resources/application-copy.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="78">
-              <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_plat_parent/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EurekaServerApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_eureka/src/main/java/cn/itsource/eureka/EurekaServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
-              <folding>
-                <element signature="e#351#352#0" expanded="true" />
-                <element signature="e#424#425#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_zuul/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1196">
-              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/resources/bootstrap.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_basic_parent/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/pom.xml">
+      <file leaf-file-name="Product.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/domain/Product.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="338">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProductType.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/domain/ProductType.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="82" column="51" lean-forward="false" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+              <folding>
+                <element signature="e#1549#1550#0" expanded="true" />
+                <element signature="e#1574#1575#0" expanded="true" />
+                <element signature="e#1608#1609#0" expanded="true" />
+                <element signature="e#1636#1637#0" expanded="true" />
+                <element signature="e#1671#1672#0" expanded="true" />
+                <element signature="e#1704#1705#0" expanded="true" />
+                <element signature="e#1754#1755#0" expanded="true" />
+                <element signature="e#1798#1799#0" expanded="true" />
+                <element signature="e#1833#1834#0" expanded="true" />
+                <element signature="e#1866#1867#0" expanded="true" />
+                <element signature="e#1916#1917#0" expanded="true" />
+                <element signature="e#1960#1961#0" expanded="true" />
+                <element signature="e#1991#1992#0" expanded="true" />
+                <element signature="e#2018#2019#0" expanded="true" />
+                <element signature="e#2058#2059#0" expanded="true" />
+                <element signature="e#2090#2091#0" expanded="true" />
+                <element signature="e#2118#2119#0" expanded="true" />
+                <element signature="e#2144#2145#0" expanded="true" />
+                <element signature="e#2180#2181#0" expanded="true" />
+                <element signature="e#2210#2211#0" expanded="true" />
+                <element signature="e#2241#2242#0" expanded="true" />
+                <element signature="e#2268#2269#0" expanded="true" />
+                <element signature="e#2308#2309#0" expanded="true" />
+                <element signature="e#2340#2341#0" expanded="true" />
+                <element signature="e#2378#2379#0" expanded="true" />
+                <element signature="e#2412#2413#0" expanded="true" />
+                <element signature="e#2466#2467#0" expanded="true" />
+                <element signature="e#2512#2513#0" expanded="true" />
+                <element signature="e#2549#2550#0" expanded="true" />
+                <element signature="e#2581#2582#0" expanded="true" />
+                <element signature="e#2632#2633#0" expanded="true" />
+                <element signature="e#2674#2675#0" expanded="true" />
+                <element signature="e#2705#2706#0" expanded="true" />
+                <element signature="e#2732#2733#0" expanded="true" />
+                <element signature="e#2772#2773#0" expanded="true" />
+                <element signature="e#2804#2805#0" expanded="true" />
+                <element signature="e#2842#2843#0" expanded="true" />
+                <element signature="e#2875#2876#0" expanded="true" />
+                <element signature="e#2928#2929#0" expanded="true" />
+                <element signature="e#2972#2973#0" expanded="true" />
+                <element signature="e#3007#3008#0" expanded="true" />
+                <element signature="e#3038#3039#0" expanded="true" />
+                <element signature="e#3086#3087#0" expanded="true" />
+                <element signature="e#3126#3127#0" expanded="true" />
+                <element signature="e#3164#3165#0" expanded="true" />
+                <element signature="e#3198#3199#0" expanded="true" />
+                <element signature="e#3252#3253#0" expanded="true" />
+                <element signature="e#3298#3299#0" expanded="true" />
+                <element signature="e#3337#3338#0" expanded="true" />
+                <element signature="e#3374#3375#0" expanded="true" />
+                <element signature="e#3432#3433#0" expanded="true" />
+                <element signature="e#3484#3485#0" expanded="true" />
+                <element signature="e#3536#3537#0" expanded="true" />
+                <element signature="e#3566#3567#0" expanded="true" />
+                <element signature="e#4266#4267#0" expanded="true" />
+                <element signature="e#4297#4298#0" expanded="true" />
+                <element signature="e#4356#4357#0" expanded="true" />
+                <element signature="e#4396#4397#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,6 +192,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>\</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>/</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/gittest" />
   </component>
@@ -145,33 +208,63 @@
       <projects_view />
     </option>
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/resources/cn/itsource/aishop/mapper/BrandMapper.xml" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aishop_basic_parent/pom.xml" />
-        <option value="$PROJECT_DIR$/aishop_eureka/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/aishop_eureka/pom.xml" />
-        <option value="$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/ZuulApplication9527.java" />
-        <option value="$PROJECT_DIR$/aishop_zuul/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/src/main/java/cn/itsource/AjaxResult.java" />
-        <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/pom.xml" />
-        <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/service/ApplicationService3000.java" />
-        <option value="$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/src/main/java/cn/itsource/basic/util/AjaxResult.java" />
-        <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/src/main/java/cn/itsource/plat/domain/User.java" />
-        <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/config/Swagger2.java" />
         <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/controller/LoginController.java" />
+        <option value="$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/ZuulApplication2000.java" />
         <option value="$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/config/DocumentationConfig.java" />
-        <option value="$PROJECT_DIR$/aishop_config_server/pom.xml" />
-        <option value="$PROJECT_DIR$/aishop_config_server/src/main/java/cn/itsource/config/ConfigApplication.java" />
-        <option value="$PROJECT_DIR$/aishop_config_server/src/main/java/cn/itsource/config/ServiceConfigApplication.java" />
-        <option value="$PROJECT_DIR$/aishop_config_server/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/pom.xml" />
-        <option value="$PROJECT_DIR$/aishop_zuul/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/aishop_zuul/pom.xml" />
-        <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/resources/bootstrap.yml" />
-        <option value="$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/ApplicationService3000.java" />
+        <option value="$PROJECT_DIR$/aishop_zuul/src/main/resources/application-copy.yml" />
+        <option value="$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/src/main/java/cn/itsource/basic/util/BitStatesUtils.java" />
+        <option value="$PROJECT_DIR$/aishop_basic_parent/aishop-basic-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop_basic_parent/aishop-basic-generator/src/main/resources/aishop-product.properties" />
+        <option value="$PROJECT_DIR$/aishop_basic_parent/aishop-basic-generator/src/main/java/cn/itsource/basic/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/aishop_product_parent/aigou-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop_product_parent/aishop-product-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aigou-product-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aigou-product-service/src/main/java/cn/itsource/aishop/config/Swagger2.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aigou-product-service/src/main/java/cn/itsource/aishop/config/MybatisPlusConfig.java" />
+        <option value="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/src/main/resources/aishop-product.properties" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/query/BrandQuery.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aigou-product-service/src/main/java/cn/itsource/aishop/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/src/main/resources/templates/controller.java.vm" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aigou-product-service/src/test/java/BrandServiceTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-basic-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-plat-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-util/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-plat-parent/aishop-plat-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-plat-parent/aishop-plat-service/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/test/java/cn/itsource/aigou/service/BrandServiceTest.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/ProductApplication.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/aishop-zuul/src/main/java/cn/itsource/zuul/config/DocumentationConfig.java" />
+        <option value="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/src/main/java/cn/itsource/basic/CodeGenerator.java" />
+        <option value="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/src/main/resources/aishop.properties" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/mapper/BrandMapper.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/controller/ProductController.java" />
+        <option value="$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/src/main/resources/templates/query.java.vm" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/query/ProductQuery.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/query/ProductTypeQuery.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/domain/Brand.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/resources/cn/itsource/aishop/mapper/BrandMapper.xml" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/domain/ProductType.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/impl/BrandServiceImpl.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/IBrandService.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/controller/ProductTypeController.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/IProductTypeService.java" />
+        <option value="$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/impl/ProductTypeServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -182,6 +275,11 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/javacj/maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -193,17 +291,31 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="aishop_config_server" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="aishop-eureka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aishop-eureka" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aishop-product-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="aishop-product-service" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="80" />
-    <option name="y" value="71" />
-    <option name="width" value="1777" />
-    <option name="height" value="933" />
+    <option name="x" value="351" />
+    <option name="y" value="97" />
+    <option name="width" value="1776" />
+    <option name="height" value="935" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -221,10 +333,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -235,51 +344,34 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_basic_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_basic_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_basic_util" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-generator" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_basic_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_basic_util" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_basic_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_basic_util" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_config_server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_config_server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-generator" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -287,7 +379,113 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="CodeGenerator" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-generator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-basic-util" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-config-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -296,7 +494,17 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_config_server" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="ServiceConfigApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-config-server" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -304,25 +512,25 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-eureka" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-eureka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-eureka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-eureka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -330,7 +538,7 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-eureka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -339,7 +547,7 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-eureka" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -349,7 +557,104 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="plat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="plat" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="plat" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="Swagger2" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -357,47 +662,187 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-plat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_interface" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-interface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-interface" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_parent" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_plat_service" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="query" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="ProductApplication" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
@@ -405,33 +850,63 @@
             <path>
               <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
               <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_zuul" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_zuul" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aishop" type="462c0819:PsiDirectoryNode" />
-              <item name="aishop_zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-product-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="BrandServiceTest" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="aishop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aishop" type="462c0819:PsiDirectoryNode" />
+              <item name="aishop-zuul" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -444,16 +919,19 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="RequestMappingsPanelOrder2" value="2" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\ide\aishop\aishop_plat_parent\aishop_plat_service\src\main\resources" />
-      <recent name="F:\ide\aishop\aishop_zuul\src\main\resources" />
-      <recent name="F:\ide\aishop\aishop_zuul\src\main\java\cn\itsource\zuul" />
-      <recent name="F:\ide\aishop\aishop_plat_parent\aishop_plat_service\src\main\java\cn\itsource\plat" />
-      <recent name="F:\ide\aishop\aishop_plat_parent\aishop_plat_interface\src\main\java" />
+      <recent name="F:\ide\aishop\aishop-product-parent\aishop-product-service\src\main\java\cn\itsource\aishop" />
+      <recent name="F:\ide\aishop\aishop-product-parent\aishop-product-service\src\test\java" />
+      <recent name="F:\ide\aishop\aishop-product-parent\aigou-product-service\src\test\java" />
+      <recent name="F:\ide\aishop\aishop-basic-parent\aishop-basic-util\src\main\java\cn\itsource\basic\util" />
+      <recent name="F:\ide\aishop\aishop-product-parent\aigou-product-service\src\main\java\cn\itsource\aishop" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -473,13 +951,32 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServiceConfigApplication9631">
+  <component name="RunManager" selected="Application.CodeGenerator">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
+    </configuration>
+    <configuration name="CodeGenerator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.itsource.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="cn.itsource.basic.CodeGenerator" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="aishop-basic-generator" />
+      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -530,21 +1027,21 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.plat.ApplicationService3000" />
-      <module name="aishop_plat_service" />
+      <module name="aishop-plat-service" />
       <envs />
     </configuration>
-    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="ProductApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="cn.itsource.eureka.*" />
+          <option name="PATTERN" value="cn.itsource.aishop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.eureka.EurekaServerApplication" />
-      <module name="aishop_eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.aishop.ProductApplication" />
+      <module name="aishop-product-service" />
       <envs />
     </configuration>
-    <configuration name="ServiceConfigApplication9631" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+    <configuration name="ServiceConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="cn.itsource.config.*" />
@@ -552,8 +1049,7 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.config.ServiceConfigApplication" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <module name="aishop_config_server" />
+      <module name="aishop-config-server" />
       <envs />
     </configuration>
     <configuration name="ZuulApplication2000" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
@@ -564,7 +1060,7 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itsource.zuul.ZuulApplication2000" />
-      <module name="aishop_zuul" />
+      <module name="aishop-zuul" />
       <envs />
     </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
@@ -600,18 +1096,20 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Spring Boot.EurekaServerApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ZuulApplication2000" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ApplicationService3000" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ServiceConfigApplication9631" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.ProductApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.ServiceConfigApplication" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ZuulApplication2000" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ApplicationService3000" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CodeGenerator" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.ApplicationService3000" />
-        <item index="1" class="java.lang.String" itemvalue="Spring Boot.ZuulApplication2000" />
-        <item index="2" class="java.lang.String" itemvalue="Spring Boot.ServiceConfigApplication9631" />
-        <item index="3" class="java.lang.String" itemvalue="Spring Boot.EurekaServerApplication" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.ProductApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Spring Boot.ApplicationService3000" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.ZuulApplication2000" />
+        <item index="3" class="java.lang.String" itemvalue="Spring Boot.ServiceConfigApplication" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CodeGenerator" />
       </list>
     </recent_temporary>
   </component>
@@ -634,20 +1132,58 @@
       <workItem from="1564192312231" duration="2655000" />
       <workItem from="1564275075828" duration="9685000" />
       <workItem from="1564363994446" duration="43000" />
-      <workItem from="1564364056834" duration="810000" />
+      <workItem from="1564364056834" duration="1408000" />
+      <workItem from="1564406401411" duration="5863000" />
+      <workItem from="1564446701354" duration="6214000" />
+      <workItem from="1564492163950" duration="676000" />
+      <workItem from="1564537460798" duration="7974000" />
+      <workItem from="1564550595039" duration="19464000" />
+      <workItem from="1564620070781" duration="1957000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BrandServiceTest - 2019.07.31 at 11h 42m 20s.xml">
+      <configuration name="BrandServiceTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrandServiceTest_test - 2019.07.31 at 11h 07m 44s.xml">
+      <configuration name="BrandServiceTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrandServiceTest_test - 2019.07.31 at 11h 08m 48s.xml">
+      <configuration name="BrandServiceTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrandServiceTest_test - 2019.07.31 at 11h 09m 46s.xml">
+      <configuration name="BrandServiceTest.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrandServiceTest_test_(1) - 2019.07.31 at 12h 52m 18s.xml">
+      <configuration name="BrandServiceTest.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrandServiceTest_test_(1) - 2019.07.31 at 12h 53m 03s.xml">
+      <configuration name="BrandServiceTest.test (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BrandServiceTest_test_(1) - 2019.07.31 at 12h 59m 03s.xml">
+      <configuration name="BrandServiceTest.test (1)" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21603000" />
+    <option name="totallyTimeSpent" value="64349000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="80" y="71" width="1777" height="933" extended-state="0" />
+    <frame x="351" y="97" width="1776" height="935" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33158585" sideWeight="0.5034965" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17414095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21561772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -655,18 +1191,18 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39950982" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39741936" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32774192" sideWeight="0.497669" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32729626" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25859058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run Dashboard" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32258064" sideWeight="0.4965035" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32774192" sideWeight="0.497669" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32774192" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32896462" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26456878" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -676,7 +1212,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32774192" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -692,252 +1228,155 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1352">
-          <caret line="52" column="21" lean-forward="false" selection-start-line="52" selection-start-column="21" selection-end-line="52" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/resources/application-copy.yml">
+    <entry file="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-util/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/ApplicationService3000.java">
+    <entry file="file://$PROJECT_DIR$/aishop-config-server/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/ZuulApplication2000.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#329#330#0" expanded="false" />
-            <element signature="e#398#399#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/config/SwaggerConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        <state relative-caret-position="130">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/config/Swagger2.java">
+    <entry file="file://$PROJECT_DIR$/aishop-eureka/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="30" column="96" lean-forward="false" selection-start-line="30" selection-start-column="96" selection-end-line="30" selection-end-column="96" />
+        <state relative-caret-position="-176">
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/src/main/java/cn/itsource/plat/domain/User.java">
+    <entry file="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1144">
-          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+        <state relative-caret-position="154">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/config/DocumentationConfig.java">
+    <entry file="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-800">
+          <caret line="25" column="37" lean-forward="false" selection-start-line="25" selection-start-column="37" selection-end-line="25" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-plat-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
-          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="1300">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-zuul/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+          <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="84">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_eureka/src/main/java/cn/itsource/eureka/EurekaServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="-104">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/test/java/BrandServiceTest.java" />
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="5" column="35" lean-forward="false" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/config/MybatisPlusConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
           <folding>
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_eureka/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/test/java/cn/itsource/aigou/service/BrandServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="260">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-config-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="200">
+          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_basic_parent/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_parent/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/aishop_eureka/src/main/java/cn/itsource.java" />
-    <entry file="file://$PROJECT_DIR$/aishop_eureka/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="676">
-          <caret line="26" column="21" lean-forward="false" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul.java" />
-    <entry file="file://$PROJECT_DIR$/aishop_eureka/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/resources/bootstrap.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
-          <caret line="12" column="11" lean-forward="false" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1612">
-          <caret line="62" column="12" lean-forward="false" selection-start-line="62" selection-start-column="12" selection-end-line="62" selection-end-column="12" />
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/src/main/java/cn/itsource/basic/util/PageList.java">
+    <entry file="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-service/src/main/java/cn/itsource/plat/config/Swagger2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="30" column="37" lean-forward="false" selection-start-line="30" selection-start-column="37" selection-end-line="30" selection-end-column="37" />
+        <state relative-caret-position="9">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-zuul/src/main/java/cn/itsource/zuul/config/DocumentationConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state relative-caret-position="260">
+          <caret line="19" column="59" lean-forward="false" selection-start-line="19" selection-start-column="59" selection-end-line="19" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/src/main/java/cn/itsource/basic/util/AjaxResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/controller/LoginController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="25" column="25" lean-forward="false" selection-start-line="25" selection-start-column="25" selection-end-line="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/ZuulApplication2000.java">
+    <entry file="file://$PROJECT_DIR$/aishop-zuul/src/main/java/cn/itsource/zuul/ZuulApplication2000.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#329#330#0" expanded="false" />
-            <element signature="e#398#399#0" expanded="false" />
-          </folding>
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/config/SwaggerConfig.java">
+    <entry file="file://$PROJECT_DIR$/aishop-zuul/src/main/java/cn/itsource/zuul/config/SwaggerConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="24" column="18" lean-forward="false" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
@@ -945,154 +1384,449 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/config/Swagger2.java">
+    <entry file="file://$PROJECT_DIR$/aishop-zuul/src/main/resources/application-copy.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="30" column="96" lean-forward="false" selection-start-line="30" selection-start-column="96" selection-end-line="30" selection-end-column="96" />
+        <state relative-caret-position="238">
+          <caret line="15" column="31" lean-forward="false" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-zuul/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-zuul/src/main/java/cn/itsource/zuul/config/GlobalCorsConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="57" lean-forward="false" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface/src/main/java/cn/itsource/plat/domain/User.java">
+    <entry file="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-service/src/main/java/cn/itsource/plat/ApplicationService3000.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="572">
-          <caret line="34" column="24" lean-forward="false" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/java/cn/itsource/zuul/config/DocumentationConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/resources/application-copy.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state relative-caret-position="156">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_config_server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/src/main/resources/aishop.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="338">
+          <caret line="16" column="55" lean-forward="false" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/src/main/java/cn/itsource/basic/CodeGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1352">
+          <caret line="62" column="51" lean-forward="false" selection-start-line="62" selection-start-column="51" selection-end-line="62" selection-end-column="51" />
+          <folding>
+            <element signature="e#2548#2563#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/resources/cn/itsource/aishop/mapper/ProductTypeMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-156">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_config_server/src/main/java/cn/itsource/config/ServiceConfigApplication.java">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/resources/cn/itsource/aishop/mapper/ProductMapper.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="-390">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/mapper/ProductMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/controller/ProductController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="82" column="52" lean-forward="false" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_config_server/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/query/ProductQuery.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="33" lean-forward="false" selection-start-line="0" selection-start-column="33" selection-end-line="0" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/query/ProductTypeQuery.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="1" column="40" lean-forward="true" selection-start-line="1" selection-start-column="40" selection-end-line="1" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator/src/main/resources/templates/query.java.vm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/query/BrandQuery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="58" column="8" lean-forward="false" selection-start-line="58" selection-start-column="8" selection-end-line="62" selection-end-column="21" />
+        <state relative-caret-position="104">
+          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-util/src/main/java/cn/itsource/basic/util/BaseQuery.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1196">
-          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        <state relative-caret-position="-104">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/mapper/ProductTypeMapper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="312">
+          <caret line="13" column="17" lean-forward="false" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_basic_parent/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/domain/Brand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="158">
+          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
+          <folding>
+            <element signature="e#1283#1284#0" expanded="false" />
+            <element signature="e#1308#1309#0" expanded="false" />
+            <element signature="e#1342#1343#0" expanded="false" />
+            <element signature="e#1370#1371#0" expanded="false" />
+            <element signature="e#1405#1406#0" expanded="false" />
+            <element signature="e#1438#1439#0" expanded="false" />
+            <element signature="e#1488#1489#0" expanded="false" />
+            <element signature="e#1532#1533#0" expanded="false" />
+            <element signature="e#1567#1568#0" expanded="false" />
+            <element signature="e#1600#1601#0" expanded="false" />
+            <element signature="e#1650#1651#0" expanded="false" />
+            <element signature="e#1694#1695#0" expanded="false" />
+            <element signature="e#1725#1726#0" expanded="false" />
+            <element signature="e#1752#1753#0" expanded="false" />
+            <element signature="e#1792#1793#0" expanded="false" />
+            <element signature="e#1824#1825#0" expanded="false" />
+            <element signature="e#1862#1863#0" expanded="false" />
+            <element signature="e#1896#1897#0" expanded="false" />
+            <element signature="e#1950#1951#0" expanded="false" />
+            <element signature="e#1996#1997#0" expanded="false" />
+            <element signature="e#2034#2035#0" expanded="false" />
+            <element signature="e#2068#2069#0" expanded="false" />
+            <element signature="e#2122#2123#0" expanded="false" />
+            <element signature="e#2168#2169#0" expanded="false" />
+            <element signature="e#2206#2207#0" expanded="false" />
+            <element signature="e#2240#2241#0" expanded="false" />
+            <element signature="e#2294#2295#0" expanded="false" />
+            <element signature="e#2340#2341#0" expanded="false" />
+            <element signature="e#2378#2379#0" expanded="false" />
+            <element signature="e#2414#2415#0" expanded="false" />
+            <element signature="e#2470#2471#0" expanded="false" />
+            <element signature="e#2520#2521#0" expanded="false" />
+            <element signature="e#2557#2558#0" expanded="false" />
+            <element signature="e#2589#2590#0" expanded="false" />
+            <element signature="e#2640#2641#0" expanded="false" />
+            <element signature="e#2682#2683#0" expanded="false" />
+            <element signature="e#2713#2714#0" expanded="false" />
+            <element signature="e#2740#2741#0" expanded="false" />
+            <element signature="e#2780#2781#0" expanded="false" />
+            <element signature="e#2812#2813#0" expanded="false" />
+            <element signature="e#2864#2865#0" expanded="false" />
+            <element signature="e#2894#2895#0" expanded="false" />
+            <element signature="e#2939#2940#0" expanded="false" />
+            <element signature="e#2973#2974#0" expanded="false" />
+            <element signature="e#3032#3033#0" expanded="false" />
+            <element signature="e#3078#3079#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.1.2/mybatis-plus-core-3.1.2.jar!/com/baomidou/mybatisplus/core/metadata/IPage.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="66" column="0" lean-forward="true" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/IBrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="22" column="34" lean-forward="false" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util/pom.xml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/impl/BrandServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="28" column="27" lean-forward="false" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/resources/cn/itsource/aishop/mapper/BrandMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="72" column="0" lean-forward="true" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <marker date="1564569877627" expanded="true" signature="2663:2816" ph="SELECT ,pt.i... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1846">
+          <caret line="87" column="0" lean-forward="false" selection-start-line="87" selection-start-column="0" selection-end-line="87" selection-end-column="0" />
+          <folding>
+            <element signature="e#2283#2284#0" expanded="true" />
+            <element signature="e#2335#2336#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/domain/Product.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="338">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_eureka/src/main/java/cn/itsource/eureka/EurekaServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/mapper/BrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface/src/main/java/cn/itsource/aishop/domain/ProductType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="82" column="51" lean-forward="false" selection-start-line="82" selection-start-column="51" selection-end-line="82" selection-end-column="51" />
+          <folding>
+            <element signature="e#1549#1550#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+            <element signature="e#1608#1609#0" expanded="true" />
+            <element signature="e#1636#1637#0" expanded="true" />
+            <element signature="e#1671#1672#0" expanded="true" />
+            <element signature="e#1704#1705#0" expanded="true" />
+            <element signature="e#1754#1755#0" expanded="true" />
+            <element signature="e#1798#1799#0" expanded="true" />
+            <element signature="e#1833#1834#0" expanded="true" />
+            <element signature="e#1866#1867#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1960#1961#0" expanded="true" />
+            <element signature="e#1991#1992#0" expanded="true" />
+            <element signature="e#2018#2019#0" expanded="true" />
+            <element signature="e#2058#2059#0" expanded="true" />
+            <element signature="e#2090#2091#0" expanded="true" />
+            <element signature="e#2118#2119#0" expanded="true" />
+            <element signature="e#2144#2145#0" expanded="true" />
+            <element signature="e#2180#2181#0" expanded="true" />
+            <element signature="e#2210#2211#0" expanded="true" />
+            <element signature="e#2241#2242#0" expanded="true" />
+            <element signature="e#2268#2269#0" expanded="true" />
+            <element signature="e#2308#2309#0" expanded="true" />
+            <element signature="e#2340#2341#0" expanded="true" />
+            <element signature="e#2378#2379#0" expanded="true" />
+            <element signature="e#2412#2413#0" expanded="true" />
+            <element signature="e#2466#2467#0" expanded="true" />
+            <element signature="e#2512#2513#0" expanded="true" />
+            <element signature="e#2549#2550#0" expanded="true" />
+            <element signature="e#2581#2582#0" expanded="true" />
+            <element signature="e#2632#2633#0" expanded="true" />
+            <element signature="e#2674#2675#0" expanded="true" />
+            <element signature="e#2705#2706#0" expanded="true" />
+            <element signature="e#2732#2733#0" expanded="true" />
+            <element signature="e#2772#2773#0" expanded="true" />
+            <element signature="e#2804#2805#0" expanded="true" />
+            <element signature="e#2842#2843#0" expanded="true" />
+            <element signature="e#2875#2876#0" expanded="true" />
+            <element signature="e#2928#2929#0" expanded="true" />
+            <element signature="e#2972#2973#0" expanded="true" />
+            <element signature="e#3007#3008#0" expanded="true" />
+            <element signature="e#3038#3039#0" expanded="true" />
+            <element signature="e#3086#3087#0" expanded="true" />
+            <element signature="e#3126#3127#0" expanded="true" />
+            <element signature="e#3164#3165#0" expanded="true" />
+            <element signature="e#3198#3199#0" expanded="true" />
+            <element signature="e#3252#3253#0" expanded="true" />
+            <element signature="e#3298#3299#0" expanded="true" />
+            <element signature="e#3337#3338#0" expanded="true" />
+            <element signature="e#3374#3375#0" expanded="true" />
+            <element signature="e#3432#3433#0" expanded="true" />
+            <element signature="e#3484#3485#0" expanded="true" />
+            <element signature="e#3536#3537#0" expanded="true" />
+            <element signature="e#3566#3567#0" expanded="true" />
+            <element signature="e#4266#4267#0" expanded="true" />
+            <element signature="e#4297#4298#0" expanded="true" />
+            <element signature="e#4356#4357#0" expanded="true" />
+            <element signature="e#4396#4397#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-config-server/src/main/java/cn/itsource/config/ServiceConfigApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/ProductApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aishop-eureka/src/main/java/cn/itsource/eureka/EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
-          <caret line="10" column="33" lean-forward="false" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <caret line="10" column="42" lean-forward="true" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding>
-            <element signature="e#351#352#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="false" />
+            <element signature="e#424#425#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/resources/application-copy.yml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/controller/ProductTypeController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="3" column="40" lean-forward="false" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        <state relative-caret-position="1508">
+          <caret line="71" column="36" lean-forward="false" selection-start-line="71" selection-start-column="36" selection-end-line="71" selection-end-column="36" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_zuul/src/main/resources/bootstrap.yml">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/IProductTypeService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        <state relative-caret-position="0">
+          <caret line="0" column="35" lean-forward="false" selection-start-line="0" selection-start-column="35" selection-end-line="0" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service/src/main/java/cn/itsource/plat/ApplicationService3000.java">
+    <entry file="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service/src/main/java/cn/itsource/aishop/service/impl/ProductTypeServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#413#414#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>aishop-product-service</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

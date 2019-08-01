@@ -9,10 +9,11 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
        <!-- <module>aishop_eureka</module>-->
-        <module>aishop_config_server</module>
-        <module>aishop_zuul</module>
-        <module>aishop_basic_parent</module>
-        <module>aishop_plat_parent</module>
+        <module>aishop-config-server</module>
+        <module>aishop-zuul</module>
+        <module>aishop-basic-parent</module>
+        <module>aishop-plat-parent</module>
+        <module>aishop-product-parent</module>
     </modules>
     <packaging>pom</packaging>
 

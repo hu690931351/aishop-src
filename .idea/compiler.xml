@@ -6,6 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="aigou-product-service" />
+        <module name="aishop-basic-generator" />
+        <module name="aishop-basic-util" />
+        <module name="aishop-config-server" />
+        <module name="aishop-eureka" />
+        <module name="aishop-plat-interface" />
+        <module name="aishop-plat-service" />
+        <module name="aishop-product-interface" />
+        <module name="aishop-product-service" />
+        <module name="aishop-zuul" />
         <module name="aishop_basic_util" />
         <module name="aishop_config_server" />
         <module name="aishop_eureka" />
@@ -15,7 +25,20 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="aigou-product-service" target="8" />
       <module name="aishop" target="8" />
+      <module name="aishop-basic-generator" target="8" />
+      <module name="aishop-basic-parent" target="8" />
+      <module name="aishop-basic-util" target="8" />
+      <module name="aishop-config-server" target="8" />
+      <module name="aishop-eureka" target="8" />
+      <module name="aishop-plat-interface" target="8" />
+      <module name="aishop-plat-parent" target="8" />
+      <module name="aishop-plat-service" target="8" />
+      <module name="aishop-product-interface" target="8" />
+      <module name="aishop-product-parent" target="8" />
+      <module name="aishop-product-service" target="8" />
+      <module name="aishop-zuul" target="8" />
       <module name="aishop_basic_parent" target="8" />
       <module name="aishop_basic_util" target="8" />
       <module name="aishop_config_server" target="8" />
@@ -23,6 +46,7 @@
       <module name="aishop_plat_interface" target="8" />
       <module name="aishop_plat_parent" target="8" />
       <module name="aishop_plat_service" target="8" />
+      <module name="aishop_product_parent" target="8" />
       <module name="aishop_zuul" target="8" />
     </bytecodeTargetLevel>
   </component>

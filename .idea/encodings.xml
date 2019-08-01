@@ -1,15 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_basic_parent" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_basic_parent/aishop_basic_util" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_config_server" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_eureka" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_plat_parent" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_interface" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_parent" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_plat_parent/aishop_plat_service" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/aishop_zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-basic-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-generator" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-basic-parent/aishop-basic-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-plat-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-plat-parent/aishop-plat-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-product-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-product-parent/aigou-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-product-parent/aishop-product-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/aishop-zuul" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
